@@ -1,0 +1,9 @@
+.......................................................................
+<ModOp Type="addPrevSibling" GUID="25000035" Path="/Values/ConstructionMenu/RegionMenu/Mod2/CategoryMode/BuildingCategory/Categories/Item[Building='1445031']">
+    <Item>
+      <Category>1111111134</Category>
+      <IconFilename>data\modgraphics\icons\601463.png</IconFilename>
+      <Name>test</Name>
+    </Item>
+</ModOp>
+........................................................................
